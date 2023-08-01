@@ -2,6 +2,7 @@
 ### A text saving and retrieval web app using Django, Django REST Framework and Simple JWT.
 ---
 ## Running the project
+(database is not deleted and .gitignore is not included for easier testing purposes)
 - Clone the repository.
 - Install `pipenv`. Alternatively, `pyenv`, `venv` etc. can also be used.
 - Run `pipenv shell` inside the directory. This will create a virtual environment named `admaren-git`.
